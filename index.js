@@ -30,6 +30,10 @@ console.log(hoursToMars);
 let daysToMars = hoursToMars / 24;
 console.log(daysToMars); 
 
+console.log(shuttleName + " will take " + daysToMars + " days to reach Mars.")
+
+// Code your solution to exercise 5 here:
+
 let milesToMoon = distanceToMoonKM * speedKM;
 console.log(milesToMoon);
 
@@ -39,5 +43,3 @@ console.log(hoursToMoon);
 let daysToMoon = hoursToMoon / 24;
 console.log(daysToMoon);
 console.log(shuttleName + " will take " + daysToMoon + " days to reach the Moon.");
-
-// Code your solution to exercise 5 here:
